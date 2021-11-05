@@ -1,9 +1,9 @@
 ---
 template: BlogIndex
-slug: ''
+slug: ""
 title: UNIQUIZ
-featuredImage: 'https://uniquiz.com.mx/img/about_img.png'
-subtitle: 'Bienvenido a nuestro blog'
+featuredImage: https://ucarecdn.com/55a0cd5a-7156-46ad-82c9-da38dceb0cdc/
+subtitle: Bienvenido a nuestro blog
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter

@@ -2,7 +2,7 @@
 template: BlogIndex
 slug: ""
 title: UNIQUIZ
-featuredImage: https://ucarecdn.com/55a0cd5a-7156-46ad-82c9-da38dceb0cdc/
+featuredImage: https://ucarecdn.com/f350c279-59f5-43e0-af9c-d36a75e178e4/
 subtitle: Bienvenido a nuestro blog
 meta:
   description: This is a meta description.

@@ -1,9 +1,12 @@
 .SinglePost {
-  background: var(--lightGrey);
+  background: rgb(15, 0, 18);
+}
+.back {
+  color: red;
 }
 
 .SinglePost--BackButton {
-  color: white;
+  color: #f2f2f2;
   position: relative;
   display: flex;
   align-items: center;
@@ -24,7 +27,7 @@
 }
 
 .SinglePost--Content {
-  background: white;
+  background: #f2f2f2;
   padding: 8rem 8rem 4rem 8rem;
 }
 
@@ -71,6 +74,7 @@
   font-size: 1.2rem;
   font-weight: 600;
   text-decoration: none;
+  color: #23d864;
 }
 
 .SinglePost--Pagination--Link.next {

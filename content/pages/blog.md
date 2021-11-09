@@ -1,9 +1,9 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: https://ucarecdn.com/d344d266-ce8d-404a-8738-8d502011d7ed/
-subtitle: This is the blog page subtitle.
+title: Uniquiz
+featuredImage: https://ucarecdn.com/24c3934e-682c-48eb-9332-cb133ae91ccf/
+subtitle: \#EstudiarNuncaFueTanDivertido
 meta:
   description: This is a meta description.
   title: Blog Page

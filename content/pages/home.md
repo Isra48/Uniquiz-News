@@ -2,8 +2,8 @@
 template: BlogIndex
 slug: ""
 title: UNIQUIZ
-featuredImage: https://ucarecdn.com/f350c279-59f5-43e0-af9c-d36a75e178e4/
-subtitle: \#EstudiandoConMisCuates <https://www.instagram.com/uniquiz.oficial/>
+featuredImage: https://ucarecdn.com/ad244596-4b64-49e5-a731-b40a6efc0b0e/
+subtitle: \#EstudiandoConMisCuates
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter

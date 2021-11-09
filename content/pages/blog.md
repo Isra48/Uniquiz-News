@@ -2,7 +2,7 @@
 template: BlogIndex
 slug: blog
 title: Uniquiz
-featuredImage: https://ucarecdn.com/45b6da4b-66da-48d4-9c6b-323efc380b4d/
+featuredImage: https://ucarecdn.com/c4f16744-20c2-48fe-bfac-58a5b036b51b/
 subtitle: \#EstudiarNuncaFueTanDivertido
 meta:
   description: This is a meta description.
